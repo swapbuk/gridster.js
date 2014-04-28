@@ -21,12 +21,12 @@
     "test",
     "tests"
   ],
-  "files":[
+  "files":{
 	"styles-notmin": [
       "dist/jquery.gridster.css"
     ],
     "scripts":[
 	  "dist/jquery.gridster.js"
 	]
-  ]
+  }
 }

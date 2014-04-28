@@ -1,0 +1,32 @@
+{
+  "name": "gridster",
+  "version": "0.5.1",
+  "homepage": "https://github.com/swapbuk/gridster.js",
+  "main" : "",
+  "authors": [
+    "swapnil.bukkawar@gmail.com"
+  ],
+  "description": "Gridster is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns. You can even dynamically add and remove elements from the grid.",
+  "keywords": [
+    "drag",
+    "add",
+    "remove"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "files":[
+	"styles-notmin": [
+      "dist/jquery.gridster.css"
+    ],
+    "scripts":[
+	  "dist/jquery.gridster.js"
+	]
+  ]
+}

@@ -2,7 +2,7 @@
   "name": "gridster",
   "version": "0.5.1",
   "homepage": "https://github.com/swapbuk/gridster.js",
-  "main" : "",
+  "main" : "dist/jquery.gridster.js",
   "authors": [
     "swapnil.bukkawar@gmail.com"
   ],

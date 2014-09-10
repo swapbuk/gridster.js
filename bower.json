@@ -22,7 +22,7 @@
     "tests"
   ],
   "files":{
-	"styles-notmin": [
+	"styles": [
       "dist/jquery.gridster.css"
     ],
     "scripts":[

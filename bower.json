@@ -1,6 +1,6 @@
 {
   "name": "gridster",
-  "version": "0.5.1",
+  "version": "0.5.6",
   "homepage": "https://github.com/swapbuk/gridster.js",
   "main" : "dist/jquery.gridster.js",
   "authors": [
